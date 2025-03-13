@@ -22,7 +22,7 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 </thead>
 <tbody>
 <tr>
-<td> <a href="https://emoji.gg/emoji/5085-linkedin-logo"><img src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="64px" height="64px" alt="Linkedin_logo"> </a> <a href="https://www.linkedin.com/in/konstantinos-karahalis-650964203" rel="nofollow">LinkedIn</a></td>
+<td> <a href="https://emoji.gg/emoji/5085-linkedin-logo"><img src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="12px" height="12px" alt="Linkedin_logo"> </a> <a href="https://www.linkedin.com/in/konstantinos-karahalis-650964203" rel="nofollow">LinkedIn</a></td>
 <td><a href="https://emoji.gg/emoji/39172-insta"><img src="https://cdn3.emoji.gg/emojis/39172-insta.gif" width="64px" height="64px" alt="insta"></a> <a href="https://www.instagram.com/____kkl____/" rel="nofollow">Instagram</a></td>
 </tr>
 <tr>
