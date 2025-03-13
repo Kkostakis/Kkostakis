@@ -31,7 +31,7 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 </tr>
 <tr>
 <td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="18px" height="18px" alt="Discord"></a> <a href="https://discordapp.com/users/kkostakis" rel="nofollow">Discord</a></td>
-<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504948.png" width="18px" height="18px" alt="Viber"></a> <a href="viber://chat?number=%2B306947546603">Viber</a></td>
+<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504948.png" width="18px" height="18px" alt="Viber"></a> <a href="viber://add?number=306947546603">Viber</a></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
