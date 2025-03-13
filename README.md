@@ -1,4 +1,14 @@
-## Hi there 👋
+Blockchain Enthusiast ₿ | Cyber Security Analyst - Blue Team 👨🏻‍💻 | Master's Thesis in Security & Analysis of Software-Defined Networks 🌐| Bachelor's Thesis in Open-Source Tools in Penetration Testing
+     
+
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="MSc in Blockchain &amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾
+BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷"><pre class="notranslate"><code>MSc in Blockchain &amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾
+BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷
+</code></pre></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
+Based in: Athens, Greece, EU 🇪🇺🇬🇷"><pre class="notranslate"><code>From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
+Based in: Athens, Greece, EU 🇪🇺🇬🇷
+</code></pre></div>
 
 <!--
 **Kkostakis/Kkostakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
