@@ -16,7 +16,8 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 <markdown-accessiblity-table><table>
 <thead>
 <tr>
-<th>Platforms</th>
+<th>Platform#1</th>
+<th>Platform#2</th>
 </tr>
 </thead>
 <tbody>
