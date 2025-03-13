@@ -31,7 +31,7 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 </tr>
 <tr>
 <td><a href="https://cdn-icons-png.flaticon.com/128/2504/2504948.png"> <a href="https://discordapp.com/users/kkostakis" rel="nofollow">Discord</a></td>
-<td> <a href="https://cdn-icons-png.flaticon.com/128/2504/2504948.png"></a> <a href="https://vb.me/letsChatOnViber" rel="nofollow">Viber</a></td>
+<td> <a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504948.png" width="16px" height="16px" alt="Viber"> <a href="https://vb.me/letsChatOnViber" rel="nofollow">Viber</a></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
@@ -40,7 +40,7 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 </svg>
 </a></div>
 <hr>
-<p dir="auto">🐧 Keywords: Linux, Cybersecurity, Blockchain, Ethereum, Decentralization, Cloud, Software-Defined Networks, Controllers</p>
+<p dir="auto"> <u>Key-words</u>: Linux, Cybersecurity, Blockchain, Ethereum, Decentralization, Cloud, Software-Defined Networks, Controllers</p>
 </article>
   </div>
 </div>
