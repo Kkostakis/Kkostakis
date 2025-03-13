@@ -26,7 +26,7 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 <td><a href="https://emoji.gg/emoji/39172-insta"><img src="https://cdn3.emoji.gg/emojis/39172-insta.gif" width="18px" height="18px" alt="insta"></a> <a href="https://www.instagram.com/____kkl____/" rel="nofollow">Instagram</a></td>
 </tr>
 <tr>
-<td>💬 <a href="https://t.me/sv1sjp" rel="nofollow">Telegram</a></td>
+<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" width="18px" height="18px" alt="Telegram"></a><a href="" rel="nofollow">Telegram</a></td>
 <td><a href="https://emoji.gg/emoji/8346-github"><img src="https://cdn3.emoji.gg/emojis/8346-github.png" width="18px" height="18px" alt="GitHub"></a> <a href="https://github.com/Kkostakis">Github</a></td>
 </tr>
 <tr>
