@@ -30,7 +30,7 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 <td><a href="https://emoji.gg/emoji/8346-github"><img src="https://cdn3.emoji.gg/emojis/8346-github.png" width="16px" height="16px" alt="GitHub"></a> <a href="https://github.com/Kkostakis">Github</a></td>
 </tr>
 <tr>
-<td><a href="https://cdn-icons-png.flaticon.com/128/2504/2504948.png"> <a href="https://discordapp.com/users/kkostakis" rel="nofollow">Discord</a></td>
+<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="16px" height="16px" alt="Discord"><a href="https://discordapp.com/users/kkostakis" rel="nofollow">Discord</a></td>
 <td> <a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504948.png" width="16px" height="16px" alt="Viber"> <a href="https://vb.me/letsChatOnViber" rel="nofollow">Viber</a></td>
 </tr>
 </tbody>
