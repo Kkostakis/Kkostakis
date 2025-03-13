@@ -30,8 +30,8 @@ Currently Based in: Athens, Greece, EU 🇪🇺🇬🇷
 <td><a href="https://emoji.gg/emoji/8346-github"><img src="https://cdn3.emoji.gg/emojis/8346-github.png" width="18px" height="18px" alt="GitHub"></a> <a href="https://github.com/Kkostakis">Github</a></td>
 </tr>
 <tr>
-<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="18px" height="18px" alt="Discord"><a href="https://discordapp.com/users/kkostakis" rel="nofollow">Discord</a></td>
-<td> <a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504948.png" width="18px" height="18px" alt="Viber"><a href="viber://pa?chatURI=Kostakis?text=welcome" rel="nofollow">Viber</a></td>
+<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="18px" height="18px" alt="Discord"></a> <a href="https://discordapp.com/users/kkostakis" rel="nofollow">Discord</a></td>
+<td><a href="https://cdn-icons-png.flaticon.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504948.png" width="18px" height="18px" alt="Viber"></a> <a href="viber://contact?number=%2B+306947546603" rel="nofollow">Viber</a></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
